@@ -1,4 +1,4 @@
-This is a Vanilla Forums module that installs the Summify.com link
+This is a Vanilla 2.0 Forums module that installs the Summify.com link
 summarization and preview widget. The module inserts a remote <script>
 tag at the end of the page.
 
